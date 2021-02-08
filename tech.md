@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: "常用计算机技术" 
-description: "思想有多远，我们就可以走多远." 
+description: "工欲善其事，必先利其器" 
 header-img: "img/top.png" 
 ---
 
