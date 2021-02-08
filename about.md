@@ -21,3 +21,15 @@ header-img: "img/top.png"
 <center>
 <p><img src="/img/v2-755b034718d115ea85fbd1aec5abf925_r.jpg" align="center"></p>
 </center>
+
+## 华东师范大学
+
+**华东师范大学**（英语：East China Normal University，缩写：**ECNU**），简称华师大或华东师大，
+1951年由大夏大学和光华大学合并而成，是新中国创办的第一所师范大学。
+**华东师范大学**是中国教育部直属的首批16所全国重点大学之一，
+是“985工程”、“211工程”重点建设高校，
+是中国首批36所“世界一流大学建设A类高校”之一。
+
+<center>
+<p><img src="/img/93665d2b-77e1-45ff-a327-476d7277d25a.jpg" align="center"></p>
+</center>
