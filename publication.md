@@ -7,6 +7,18 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
+1. **Kang Wang**, Tingjun Zhang
+(**2021**),
+Revisiting climatic features in the Alaskan Arctic using newly collected data.
+**Theoretical and Applied Climatology**:1-9.
+[DOI:10.1007/s00704-020-03495-8](https://doi.org/10.1007/s00704-020-03495-8)
+
+1. **Kang Wang**, Gary D. Clow
+(**2021**),
+Newly collected data across Alaska reveal remarkable biases in solar radiation products.
+**International Journal of Climatology**:497-512.
+[DOI:10.1002/joc.6634](https://doi.org/10.1002/joc.6634)
+
 1. **Kang Wang**, Gary D. Clow
 (**2020**),
 The Diurnal Temperature Range in CMIP6 Models: Climatology, Variability, and Evolution.
@@ -24,6 +36,12 @@ Sensitivity evaluation of the Kudryavtsev permafrost model.
 Reconstructed global monthly land air temperature dataset (1880–2017).
 **Geoscience Data Journal**:4-12.
 [DOI:10.1002/gdj3.84](https://doi.org/10.1002/gdj3.84)
+
+1. **王康**, 张廷军, 牟翠翠, 钟歆玥, 彭小清, 曹斌, 鲁蕾, 郑雷, 吴小丹, 刘佳.
+(**2020**),
+从第三极到北极:气候与冰冻圈变化及其影响.
+**冰川冻土**:104-123.
+[DOI:10.7522/j.issn.1000-0240.2020.0004](https://doi.org/10.7522/j.issn.1000-0240.2020.0004)
 
 1. Yutong Yan, Wenxian Jiao, **Kang Wang**, Yatao Huang, Jingyang Chen, Qingfeng Han
 (**2020**),
