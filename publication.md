@@ -7,7 +7,7 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
--. Christopher R Schwalm, Kevin Schaefer, Joshua B Fisher, Deborah Huntzinger, Yasin Elshorbany, Yuanyuan Fang, Daniel Hayes, Elchin Jafarov, Anna M Michalak, Mark Piper, Eric Stofferahn, Kang Wang, Yaxing Wei
+1. Christopher R Schwalm, Kevin Schaefer, Joshua B Fisher, Deborah Huntzinger, Yasin Elshorbany, Yuanyuan Fang, Daniel Hayes, Elchin Jafarov, Anna M Michalak, Mark Piper, Eric Stofferahn, **Kang Wang**, Yaxing Wei
 (**2019**),
 Divergence in land surface modeling: linking spread to structure.
 **Environmental Research Communications**:111004.
