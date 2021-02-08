@@ -7,6 +7,12 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
+1. Lei Zheng, Chunxia Zhou, Tingjun Zhang, Qi Liang, **Kang Wang**
+(**2020**),
+Recent changes in pan-Antarctic region surface snowmelt detected by AMSR-E and AMSR2.
+**The Cryosphere**:3811-3827.
+[DOI:10.5194/tc-14-3811-2020](https://doi.org/10.5194/tc-14-3811-2020)
+
 1. Christopher R Schwalm, Kevin Schaefer, Joshua B Fisher, Deborah Huntzinger, Yasin Elshorbany, Yuanyuan Fang, Daniel Hayes, Elchin Jafarov, Anna M Michalak, Mark Piper, Eric Stofferahn, **Kang Wang**, Yaxing Wei
 (**2019**),
 Divergence in land surface modeling: linking spread to structure.
