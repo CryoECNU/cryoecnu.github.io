@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: page 
 title: "Reading" 
 description: "思想有多远，我们就可以走多远. <br>(We can go as far as we thought)" 
 header-img: "img/top.png" 
@@ -41,6 +41,3 @@ header-img: "img/top.png"
     {% endif %}
 </ul>
 {% endif %}
-annual mean surface albedo feedback in the SH sea ice zone contributes to it having one of the smaller equilibrium temperature changes and a small SH polar amplification** (see Table 1).
-
-> Source: Crook, J.A., P.M. Forster, and N. Stuber, 2011: Spatial Patterns of Modeled Climate Feedback and Contributions to Temperature Response and Polar Amplification. J. Climate, 24, 3575–3592, https://doi.org/10.1175/2011JCLI3863.1 
