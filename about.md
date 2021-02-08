@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "关于我们"
 description: "思想有多远，我们就可以走多远."
 header-img: "img/top.png"
