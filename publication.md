@@ -7,10 +7,28 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
-1. Kang Wang, Elchin Jafarov, Irina Overeem, Vladimir Romanovsky, Kevin Schaefer, Gary Clow, Frank Urban, William Cable, Mark Piper, Christopher Schwalm, Tingjun Zhang, Alexander Kholodov, Pamela Sousanes, Michael Loso, and Kenneth Hill
+-. Christopher R Schwalm, Kevin Schaefer, Joshua B Fisher, Deborah Huntzinger, Yasin Elshorbany, Yuanyuan Fang, Daniel Hayes, Elchin Jafarov, Anna M Michalak, Mark Piper, Eric Stofferahn, Kang Wang, Yaxing Wei
+(**2019**),
+Divergence in land surface modeling: linking spread to structure.
+**Environmental Research Communications**:111004.
+[DOI:10.1088/2515-7620/ab4a8a](https://doi.org/10.1088/2515-7620/ab4a8a)
+
+1. Lei Zheng, Irina Overeem, **Kang Wang**, Gary D. Clow
+(**2019**),
+Changing Arctic River Dynamics Cause Localized Permafrost Thaw.
+**Journal of Geophysical Research: Earth Surface**:2324-2344.
+[DOI:10.1029/2019JF005060](https://doi.org/10.1029/2019JF005060)
+
+1. Xiaoqing Peng, Tingjun Zhang, Oliver W. Frauenfeld, **Kang Wang**, Wen Sun, Jing Luo
+(**2019**),
+Evaluation and quantification of surface air temperature over Eurasia based on CMIP5 models.
+**Climatic Research**:167-180.
+[DOI:10.3354/cr01549](https://doi.org/10.3354/cr01549)
+
+1. **Kang Wang**, Elchin Jafarov, Irina Overeem, Vladimir Romanovsky, Kevin Schaefer, Gary Clow, Frank Urban, William Cable, Mark Piper, Christopher Schwalm, Tingjun Zhang, Alexander Kholodov, Pamela Sousanes, Michael Loso, Kenneth Hill
 (**2018**),
 A synthesis dataset of permafrost-affected soil thermal conditions for Alaska, USA.
-Earth System Science Data:2311–2328.
+**Earth System Science Data**:2311–2328.
 [DOI:10.5194/essd-10-2311-2018](https://doi.org/10.5194/essd-10-2311-2018)
 
 1. Bin Cao, Tingjun Zhang, Xiaoqing Peng, Cuicui Mu, Qingfeng Wang, Lei Zheng, **Kang Wang**, Xinyue Zhong
@@ -19,7 +37,7 @@ Thermal characteristics and recent changes of permafrost in the upper reaches of
 **Journal of Geophysical Research: Atmospheres**: 7935–7949.
 [DOI:10.1029/2018JD028442](https://doi.org/10.1029/2018JD028442)
 
-1. Xiaoqing Peng, Tingjun Zhang,, Oliver W. Frauenfeld, **Kang Wang**, Dongliang Luo, Bin Cao, Hang Su, Huijun Jin, Qingbai Wu
+1. Xiaoqing Peng, Tingjun Zhang, Oliver W. Frauenfeld, **Kang Wang**, Dongliang Luo, Bin Cao, Hang Su, Huijun Jin, Qingbai Wu
 (**2018**),
 Spatiotemporal changes in active layer thickness under contemporary and projected climate in the Northern Hemisphere. 
 **Journal of Climate**:251-266.
