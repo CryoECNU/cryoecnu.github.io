@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "思想有多远，我们就可以走多远. <br>(We can go as far as we thought)"
+title: "存档"
+description: "深挖洞、广积粮"
 header-img: "img/top.png"
 ---
 
