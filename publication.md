@@ -37,7 +37,7 @@ Reconstructed global monthly land air temperature dataset (1880–2017).
 **Geoscience Data Journal**:4-12.
 [DOI:10.1002/gdj3.84](https://doi.org/10.1002/gdj3.84)
 
-1. **王康**, 张廷军, 牟翠翠, 钟歆玥, 彭小清, 曹斌, 鲁蕾, 郑雷, 吴小丹, 刘佳.
+1. **王康**, 张廷军, 牟翠翠, 钟歆玥, 彭小清, 曹斌, 鲁蕾, 郑雷, 吴小丹, 刘佳
 (**2020**),
 从第三极到北极:气候与冰冻圈变化及其影响.
 **冰川冻土**:104-123.
