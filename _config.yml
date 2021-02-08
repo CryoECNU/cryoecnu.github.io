@@ -1,14 +1,14 @@
 # Site settings
-title: 华东师范大学
+title: 华东师范大学冰冻圈研究荟
 header-img: "img/top.png"
 tagline: "cn"  
-description: "思想有多远，我们就可以走多远. (We can go as far as we thought)"  
+description: "深挖洞、广积粮"  
 baseurl: ""
 url: "http://cryoecnu.github.io"  
 
 # About/contact
 owner: 
-  name: " K.W."
+  name: "CryoECNU"
   email: wangkang1984@gmail.com
   bio: "Write what I want to write"
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "K.WANG"
+      author: "CryoECNU"
       header-img: "img/top.png" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
