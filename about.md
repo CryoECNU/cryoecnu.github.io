@@ -8,6 +8,10 @@ header-img: "img/top.png"
 
 * 关注于冰冻圈科学研究
 
-* 关注于地球气候系统及其变化研究
+**冰冻圈**包括积雪、海冰、冰盖、冰川、多年冻土、季节冻土等。
 
-* 关注于与上述关联的研究
+<center>
+<p><img src="/img/Cryosphere_Fuller_Projection.png" align="center"></p>
+</center>
+
+* 关注与冰冻圈关联的其他地球系统组分
