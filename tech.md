@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: "Tech Notes" 
-description: "思想有多远，我们就可以走多远. <br>(We can go as far as we thought)" 
+title: "常用计算机技术" 
+description: "思想有多远，我们就可以走多远." 
 header-img: "img/top.png" 
 ---
 
