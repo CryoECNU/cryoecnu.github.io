@@ -7,6 +7,30 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
+1. **Kang Wang**, Gary D. Clow
+(**2020**),
+The Diurnal Temperature Range in CMIP6 Models: Climatology, Variability, and Evolution.
+**Journal of Climate**:8261-8279.
+[DOI:10.1175/JCLI-D-19-0897.1](https://doi.org/10.1175/JCLI-D-19-0897.1)
+
+1. **Kang Wang**, Elchin Jafarov, Irina Overeem
+(**2020**),
+Sensitivity evaluation of the Kudryavtsev permafrost model.
+**Science of the Total Environment**:137538.
+[DOI:10.1016/j.scitotenv.2020.137538](https://doi.org/10.1016/j.scitotenv.2020.137538)
+
+1. **Kang Wang**, Gary D. Clow
+(**2020**),
+Reconstructed global monthly land air temperature dataset (1880–2017).
+**Geoscience Data Journal**:4-12.
+[DOI:10.1002/gdj3.84](https://doi.org/10.1002/gdj3.84)
+
+1. Yutong Yan, Wenxian Jiao, **Kang Wang**, Yatao Huang, Jingyang Chen, Qingfeng Han
+(**2020**),
+Coal-to-gas heating compensation standard and willingness to make clean energy choices in typical rural areas of northern China.
+**Energy Policy**:111698.
+[DOI:10.1016/j.enpol.2020.111698](https://doi.org/10.1016/j.enpol.2020.111698)
+
 1. Lei Zheng, Chunxia Zhou, **Kang Wang**
 (**2020**),
 Enhanced winter snowmelt in the Antarctic Peninsula: Automatic snowmelt identification from radar scatterometer.
