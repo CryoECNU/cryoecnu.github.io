@@ -7,6 +7,12 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
+1. Lei Zheng, Chunxia Zhou, **Kang Wang**
+(**2020**),
+Enhanced winter snowmelt in the Antarctic Peninsula: Automatic snowmelt identification from radar scatterometer.
+**Remote Sensing of Environment**:111835.
+[DOI:10.1016/j.rse.2020.111835](https://doi.org/10.1016/j.rse.2020.111835)
+
 1. Lei Zheng, Chunxia Zhou, Tingjun Zhang, Qi Liang, **Kang Wang**
 (**2020**),
 Recent changes in pan-Antarctic region surface snowmelt detected by AMSR-E and AMSR2.
