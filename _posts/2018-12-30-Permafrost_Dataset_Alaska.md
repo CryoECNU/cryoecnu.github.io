@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A synthesis dataset of permafrost-affected soil thermal conditions for Alaska, USA
-date: 2018-12-30
+date: 2019-07-30
 categories: blog
 tags: [Reference, Alaska, Permafrost, Dataset]
 description: 
