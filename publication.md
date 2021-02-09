@@ -101,7 +101,7 @@ Spatiotemporal changes in active layer thickness under contemporary and projecte
 (**2017**), 
 Continuously Amplified Warming in the Alaskan Arctic: Implications for Estimating Global Warming Hiatus. 
 **Geophysical Research Letters**:9029-9038.
-[DOI:10.1002/2017gl074232](https://doi.org/10.1002/2017gl074232)
+[DOI:10.1002/2017gl074232](https://doi.org/10.1002/2017gl074232) [<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2017/10/30/Continuously_Amplified_Warming_Alaskan_Arctic/)
 
 1. Qingfeng Wang, Huijun Jin, Tingjun Zhang, Bin Cao, Xiaoqing Peng, **Kang Wang**, Xiongxin Xiao, Hong Guo, Cuicui Mu, Lili Li
 (**2017**),
