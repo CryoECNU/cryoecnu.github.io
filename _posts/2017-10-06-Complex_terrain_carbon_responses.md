@@ -5,7 +5,7 @@ date: 2017-10-06
 categories: blog
 tags: [Climate, Reference, Complex Terrain, Carbon, Temperature, Precipitation]
 description: 
-header-img: img/top.png    #这篇文章标题背景图片
+header-img: img/gbc20572-fig-0001.png    #这篇文章标题背景图片
 ---
 Reyes, W. M., H. E. Epstein, X. Li, B. L. McGlynn, D. A. Riveros-Iregui, and R. E. Emanuel, **2017**: Complex terrain influences ecosystem carbon responses to temperature and precipitation, *Global Biogeochem. Cycles*, 31, 1306–1317, [doi:10.1002/2017GB005658](https://doi.org/10.1002/2017GB005658).
 
