@@ -16,8 +16,11 @@ header-img: "img/top.png"
 	- **Anaconda**: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 	  - 比较好的虚拟环境，当然主要是Python的环境管理，也有第三方开发的什么GCC编译器之类，不过版本都比较老，用着也还可以。
 	
+	- **MATLAB**: [https://www.mathworks.com/products/matlab.html](https://www.mathworks.com/products/matlab.html)
+	   - 无需多解释，数值计算模拟都知道。相比Python等开源软件，算法优化很好，也比较稳妥。**Python**和**MATLAB**两者会用其中一个就差不多了，另一个能看懂就行。
+	
 	- **QGIS**: [http://www.qgis.org/en/site/forusers/download.html](http://www.qgis.org/en/site/forusers/download.html)
-      - 免费的GIS软件，日常作图处理地图数据也够用了。个别情况下，比ArcGIS还是差了点。 
+      - 免费的GIS软件，日常作图处理地图数据也够用了。个别情况下，比ArcGIS还是差了点。在LINUX和MacOS下，这个恐怕已经是没有选择的选择了。
 	  
 	- **gcc & gfortran**: [http://hpc.sourceforge.net/](http://hpc.sourceforge.net/)
 	   - C和Fortran编译器，免费的GNU编译工具。
