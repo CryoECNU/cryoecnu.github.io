@@ -25,3 +25,5 @@ A synthesis dataset of permafrost-affected soil thermal conditions for Alaska, U
 <center>
 <p><img src="/img/essd-10-2311-2018-f02-web.png" align="center"></p>
 </center>
+
+**【后记】** 因为在阿拉斯加的多年冻土地区，观测系统千差万别，包括观测深度、数据存储格式、时间分辨率、等等。这给比较验证模型、后续统计分析都造成很大困扰。我们就想把主要的几个观测网络的数据进行集成整合。
