@@ -83,7 +83,7 @@ Evaluation and quantification of surface air temperature over Eurasia based on C
 (**2018**),
 A synthesis dataset of permafrost-affected soil thermal conditions for Alaska, USA.
 **Earth System Science Data**:2311–2328.
-[DOI:10.5194/essd-10-2311-2018](https://doi.org/10.5194/essd-10-2311-2018)
+[DOI:10.5194/essd-10-2311-2018](https://doi.org/10.5194/essd-10-2311-2018) [<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2019/07/30/Permafrost_Dataset_Alaska/)
 
 1. Bin Cao, Tingjun Zhang, Xiaoqing Peng, Cuicui Mu, Qingfeng Wang, Lei Zheng, **Kang Wang**, Xinyue Zhong
 (**2018**),
