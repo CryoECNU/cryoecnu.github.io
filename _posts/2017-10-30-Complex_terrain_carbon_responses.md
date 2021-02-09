@@ -25,7 +25,7 @@ Continuously Amplified Warming in the Alaskan Arctic: Implications for Estimatin
 自1990年代末以来，北极其他地区也可能发生了气候变暖加剧的情况，但只是由于观测范围不完整而未被揭示。
 
 <center>
-<p><img src="img/grl56363-fig-0001-m.jpg" align="center"></p>
+<p><img src="/img/grl56363-fig-0001-m.jpg" align="center"></p>
 </center>
 
 **【后记】**
