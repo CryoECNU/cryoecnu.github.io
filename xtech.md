@@ -41,7 +41,7 @@ header-img: "img/top.png"
 	- **MikTex (Latex for Windows)**: [https://miktex.org/](https://miktex.org/)
 
 
-- **软件推荐**
+- **文献管理软件推荐**
  
 	- **Endnote**: [https://www.endnote.com/](https://www.endnote.com/)
 	   - 比较方便的参考文献管理软件，很多单位都买了正版，可以开通账户，然后即可在多台设备同步所有文献数据。
