@@ -27,7 +27,7 @@ Reconstructed global monthly land air temperature dataset (1880–2017).
 </center>
 
 **【后记】**
-DINEOF最初用于遥感或者其他空间数据的缺失值插补，我们就想，这个技术是否能够用在时间插补上面。所以就尝试了对全球地面台站的历史资料进行了重建和比对，结果还可以。通过这样的时间插补，能够最大程度的减小早期台站分布不均一的问题，即便很多数据产品采用了各种各样的空间插值方法，我们在这里也列举了CRU的例子。
+在2017年做GRL那篇工作[<span style="color:red">**【GRL2017】**</span>](https://cryoecnu.github.io/blog/2017/10/30/Continuously_Amplified_Warming_Alaskan_Arctic/)的时候，一个重要的问题是网格资料的原始输入台站数据空间分布不均。后来发现，DINEOF最初用于遥感或者其他空间数据的缺失值插补，我们就想，这个技术是否能够用在时间插补上面。所以就尝试了对全球地面台站的历史资料进行了重建和比对，结果还可以。通过这样的时间插补，能够最大程度的减小早期台站分布不均一的问题，即便很多数据产品采用了各种各样的空间插值方法，我们在这里也列举了CRU的例子。
 
 没曾想，这个小文章第一次的被引用是被Nature Geoscience文章引用的：
 Christopher Kadow, David Matthew Hall, Uwe Ulbrich (**2020**), Artificial intelligence reconstructs missing climate information, **Nature Geoscience**: 408-413. [DOI: 10.1038/s41561-020-0582-5](https://doi.org/10.1038/s41561-020-0582-5)
