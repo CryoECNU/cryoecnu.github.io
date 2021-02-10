@@ -25,3 +25,7 @@ header-img: "img/top.png"
 ## 瓦尔登湖
 
 **真正读懂《瓦尔登湖》，你才能《面朝大海、春暖花开》**
+
+<center>
+<p><img src="/img/WeChatWorkScreenshot_90291612-d3d0-45c3-91c5-a9e72fd6b66a.png" align="center"></p>
+</center>
