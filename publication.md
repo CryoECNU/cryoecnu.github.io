@@ -36,6 +36,7 @@ Sensitivity evaluation of the Kudryavtsev permafrost model.
 Reconstructed global monthly land air temperature dataset (1880–2017).
 **Geoscience Data Journal**:4-12.
 [DOI:10.1002/gdj3.84](https://doi.org/10.1002/gdj3.84)
+[<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2020/09/10/DINEOF_Land_Air_Temp_Data/)
 
 1. **王康**, 张廷军, 牟翠翠, 钟歆玥, 彭小清, 曹斌, 鲁蕾, 郑雷, 吴小丹, 刘佳
 (**2020**),
