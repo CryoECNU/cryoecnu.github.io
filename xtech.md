@@ -31,7 +31,7 @@ header-img: "img/top.png"
 	- **CDO**: [https://code.mpimet.mpg.de/projects/cdo/](https://code.mpimet.mpg.de/projects/cdo/)
 	   - 比较简单的NC文件计算，只有命令行模式。在MacOS和Linux下面比较好用，Windows下面建议直接用Linux子系统。
 	
-	- **Panoply (Gridded data viewer)**: [https://www.giss.nasa.gov/tools/panoply/](https://www.giss.nasa.gov/tools/panoply/)
+	- **Panoply**: [https://www.giss.nasa.gov/tools/panoply/](https://www.giss.nasa.gov/tools/panoply/)
 	   - 网格数据快速可视化，NASA开发的，主要针对NC之类的网格数据，需要先安装JAVA。
 
 - **Latex文档处理**: 比WORD用起来好很多，但是也有弊端，主要是用的人不多，所以如果要和别人一起工作，别人不用Latex就不行了。比如说找人改论文、写基金本子等等。尽管如此，还是强烈推荐，没办法，优点太多了。
