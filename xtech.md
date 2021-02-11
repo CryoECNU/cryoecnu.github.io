@@ -48,6 +48,9 @@ header-img: "img/top.png"
 	   - 已知问题: 
 	      - 参考文献中的作者列表，中文参考文献都使用“等”，英文参考文献使用“etc.”，这个没办法自动转换。
 	      - 中文一般要求标注参考文献类型，比如专著［M］，论文集［C］，报纸文章［N］，期刊文章［J］，学位论文［D］，报告［R］，标准［S］，专利［P］，论文集中的析出文献［A］。
+	- **Mendeley**: [https://www.mendeley.com/](https://www.mendeley.com/) 
+	    - 优点是免费
+	    - 缺点是对中文支持不好，插入引用的格式也有些不方便，比如Name (Year)。总之，非商业软件总比商业软件差点。 
       	      
 	- **Calibre**: [https://calibre-ebook.com/](https://calibre-ebook.com/)
 	   - 非常棒的电子书管理软件，不仅可以管理本地库，还可以在NAS上建立自己的网络书架。 
