@@ -44,6 +44,7 @@ Reconstructed global monthly land air temperature dataset (1880–2017).
 从第三极到北极:气候与冰冻圈变化及其影响.
 **冰川冻土**:104-123.
 [DOI:10.7522/j.issn.1000-0240.2020.0004](http://www.bcdt.ac.cn/CN/10.7522/j.issn.1000-0240.2020.0004)
+[<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2021/01/05/%E7%AC%AC%E4%B8%89%E6%9E%81%E5%88%B0%E5%8C%97%E6%9E%81%E7%BB%BC%E8%BF%B0/)
 
 1. Yutong Yan, Wenxian Jiao, **Kang Wang**, Yatao Huang, Jingyang Chen, Qingfeng Han
 (**2020**),
