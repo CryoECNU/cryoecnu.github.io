@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "思想有多远，我们就可以走多远. <br>(We can go as far as we thought)"  
+description: "思想有多远，我们就可以走多远."  
 header-img: "img/top.png"  
 ---
 
