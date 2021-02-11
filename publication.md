@@ -24,6 +24,7 @@ Newly collected data across Alaska reveal remarkable biases in solar radiation p
 The Diurnal Temperature Range in CMIP6 Models: Climatology, Variability, and Evolution.
 **Journal of Climate**:8261-8279.
 [DOI:10.1175/JCLI-D-19-0897.1](https://doi.org/10.1175/JCLI-D-19-0897.1)
+[<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2021/02/05/CMIP6_DTR/)
 
 1. **Kang Wang**, Elchin Jafarov, Irina Overeem
 (**2020**),
