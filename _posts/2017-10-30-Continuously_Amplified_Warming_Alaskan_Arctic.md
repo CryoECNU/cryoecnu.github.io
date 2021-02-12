@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Continuously amplified warming in the Alaskan Arctic
+subtitle: Implications for Estimating Global Warming Hiatus
 date: 2017-10-30
 categories: blog
 tags: [Climate, Reference, Alaska, Arctic, Temperature, Hiatus]
