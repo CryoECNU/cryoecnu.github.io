@@ -49,3 +49,14 @@ SME的架构主要分为三大部分：
 可能需要在原有SME的框架上，对其进行升级改造。一方面可能是测试比较新的编译器；另一方面可能是移植很多功能到Python平台上去，估计能极大的简化模型内置转换器和分发的代码实现。
 
 这个想法跟SME的主要作者沟通过，基本上只是技术层面的工作，所以，能找到一两个计算机专业的、再有经费支持上一年半载的应该就差不多。
+
+## 相关书籍
+
+《Landscape simulation modeling: a spatially explicit, dynamic approach》: [<span style="color:red">**Link!**</span>](https://link.springer.com/book/10.1007/b97268)
+
+有中文译本，翻译质量是很好了的。
+《景观模拟模型：空间显式的动态方法》：[<span style="color:red">**Link!**</span>](https://baike.baidu.com/item/%E6%99%AF%E8%A7%82%E6%A8%A1%E6%8B%9F%E6%A8%A1%E5%9E%8B%EF%BC%9A%E7%A9%BA%E9%97%B4%E6%98%BE%E5%BC%8F%E7%9A%84%E5%8A%A8%E6%80%81%E6%96%B9%E6%B3%95)
+
+《Systems Science and Modeling for Ecological Economics》：[<span style="color:red">**Link!**</span>](https://www.elsevier.com/books/systems-science-and-modeling-for-ecological-economics/voinov/978-0-12-372583-7)
+
+也有中文译本，尚未读过，不好评判。《生态经济学中的系统分析与模拟》：[<span style="color:red">**Link!**</span>](http://www.hep.com.cn/book/details?uuid=80eeb3ac-1460-1000-bc2a-3fafc67de19c)
