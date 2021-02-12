@@ -31,3 +31,5 @@ A synthesis dataset of permafrost-affected soil thermal conditions for Alaska, U
 <center>
 <p><img src="/img/essd-10-2311-2018-ECA-CCI.png" align="center"></p>
 </center>
+
+另一方面，也通过这个工作，与一些学者建立了联系。这个也很重要。
