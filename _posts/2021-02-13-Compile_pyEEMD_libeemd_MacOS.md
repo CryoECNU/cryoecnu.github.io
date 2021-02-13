@@ -13,7 +13,7 @@ header-img: img/top.png    #这篇文章标题背景图片
 3.  **python环境**：conda，python 3.7+
 4. **软件需求**：gsl，make，gcc, pkg-config
 
-##libeemd编译步骤
+## libeemd编译步骤
 
 - 下载libeemd：[Download](https://bitbucket.org/luukko/libeemd/downloads/)
 - 解压缩，进入解压缩后的目录
@@ -24,7 +24,7 @@ header-img: img/top.png    #这篇文章标题背景图片
 
 - 可能会找不到头文件，比如"*.h"之类的文件，则需要从下面的文件夹中拷贝：/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include，到目标文件夹：miniconda3安装目录下面的include文件夹。
 
-##pyeemd安装步骤
+## pyeemd安装步骤
 
 - 下载pyeemd：[Download](https://bitbucket.org/luukko/pyeemd/downloads/)
 - 解压缩，进入解压缩后的目录
