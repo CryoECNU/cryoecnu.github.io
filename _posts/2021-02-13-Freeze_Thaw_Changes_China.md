@@ -31,3 +31,5 @@ Changes in the timing and duration of the near-surface soil freeze/thaw status f
 <center>
 <p><img src="/img/WX20210213-152741@2x.png" align="center"></p>
 </center>
+
+**【后记】** 本人的第一篇SCI，2014年完稿、投稿TC，几经磨难，2015年才发表出来。虽然在不断修订过程中学到了很多，但还远远不够。对于我这样的新手，不管是从语言上还是写作上，没有3-5篇论文写作的锤炼，很难摸到门。写SCI离不开的是：**多看（文献）、多想（idea）、多写（文稿）**。
