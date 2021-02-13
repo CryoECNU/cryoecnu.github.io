@@ -4,7 +4,7 @@ title: Reconstructed global monthly land air temperature dataset (1880–2017)
 date: 2020-09-10
 categories: blog
 description: 
-tags: [Climate, Reference, Global, Temperature, EOF, DINEOF]
+tags: [Publication, Climate, Global, Temperature, EOF, DINEOF]
 header-img: img/top.png    #这篇文章标题背景图片
 ---
 
