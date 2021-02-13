@@ -4,7 +4,7 @@ title: Continuously amplified warming in the Alaskan Arctic
 subtitle: Implications for Estimating Global Warming Hiatus
 date: 2017-10-30
 categories: blog
-tags: [Climate, Reference, Alaska, Arctic, Temperature, Hiatus]
+tags: [Publication, Climate, Alaska, Arctic, Temperature, Hiatus]
 description: 
 header-img: img/top.png    #这篇文章标题背景图片
 ---
