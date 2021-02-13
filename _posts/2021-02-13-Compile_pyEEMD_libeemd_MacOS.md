@@ -4,7 +4,7 @@ title: 编译libeemd并安装pyeemd
 date: 2021-02-13
 categories: blog
 description: 
-tags: [Publication, EEMD, MacOS, conda]
+tags: [Software, EEMD, MacOS, conda]
 header-img: img/top.png    #这篇文章标题背景图片
 ---
 
