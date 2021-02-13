@@ -33,3 +33,7 @@ date: 2021-02-09
 <center>
 <p><img src="/img/93665d2b-77e1-45ff-a327-476d7277d25a.jpg" align="center"></p>
 </center>
+
+## 轨迹
+
+<script src="https://github.com/CryoECNU/cryoecnu.github.io/blob/master/my_trace.geojson"></script>
