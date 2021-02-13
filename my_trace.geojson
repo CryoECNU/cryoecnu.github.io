@@ -2,9 +2,9 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [121.452668, 31.029162]
   },
   "properties": {
-    "name": "Dinagat Islands"
+    "name": "华东师范大学闵行校区"
   }
 }
