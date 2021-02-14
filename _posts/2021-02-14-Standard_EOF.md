@@ -30,7 +30,7 @@ NCL结果：
 <p><img src="/img/eof_20210214.png" align="center"></p>
 </center>
 
-【相关参考资料】
+## 相关参考资料
 
 [EOF in IDL](http://www.idlcoyote.com/code_tips/eof_analysis.html), 不光是解释如何用IDL做EOF分析，也很仔细地解释了计算过程。
 
