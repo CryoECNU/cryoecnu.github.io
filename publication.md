@@ -18,6 +18,7 @@ Revisiting climatic features in the Alaskan Arctic using newly collected data.
 Newly collected data across Alaska reveal remarkable biases in solar radiation products.
 **International Journal of Climatology**:497-512.
 [DOI:10.1002/joc.6634](https://doi.org/10.1002/joc.6634)
+[<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2021/02/15/Solar_Radiation_Alaska/)
 
 1. **Kang Wang**, Gary D. Clow
 (**2020**),
