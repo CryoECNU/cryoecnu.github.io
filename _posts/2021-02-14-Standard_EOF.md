@@ -18,3 +18,12 @@ EOF分析在数学上是严格的，但是并不是基于物理学。物理意�
 
 也就是说，本质上，符号反转并不改变结果的意义。所以从某种意义上讲，可以通过反转符号（当然，必须在空间模态和时间序列上同时反转），使分解出来的空间模态和时间序列看起来比较符合物理意义，比如正相位->增温。
 
+比较简单的使用NCL，当然NCL已经要退出历史舞台了。
+
+NCL脚本：[点击这里](https://www.ncl.ucar.edu/Applications/Scripts/eof_1.ncl)
+
+NCL结果：
+
+<center>
+<p><img src="/img/eof_20210214.png" align="center"></p>
+</center>
