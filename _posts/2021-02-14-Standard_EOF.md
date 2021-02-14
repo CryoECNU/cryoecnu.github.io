@@ -29,3 +29,11 @@ NCL结果：
 <center>
 <p><img src="/img/eof_20210214.png" align="center"></p>
 </center>
+
+【相关参考资料】
+
+[EOF in IDL](http://www.idlcoyote.com/code_tips/eof_analysis.html), 不光是解释如何用IDL做EOF分析，也很仔细地解释了计算过程。
+
+Daniel Wilks 的 [Statistical Methods in the Atmospheric Sciences](https://www.elsevier.com/books/statistical-methods-in-the-atmospheric-sciences/wilks/978-0-12-815823-4)，最新版应该是2019年的第四版。
+
+Daniel Wilks 的第三版有中文译本：[大气科学中的统计方法](https://item.jd.com/12403725.html).
