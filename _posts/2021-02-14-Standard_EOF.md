@@ -22,6 +22,8 @@ EOF分析在数学上是严格的，但是并不是基于物理学。物理意�
 
 NCL脚本：[点击这里](https://www.ncl.ucar.edu/Applications/Scripts/eof_1.ncl)
 
+数据文件：[点击这里](ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/surface/slp.mon.mean.nc)
+
 NCL结果：
 
 <center>
