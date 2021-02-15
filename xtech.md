@@ -54,3 +54,10 @@ header-img: "img/top.png"
       	      
 	- **Calibre**: [https://calibre-ebook.com/](https://calibre-ebook.com/)
 	   - 非常棒的电子书管理软件，不仅可以管理本地库，还可以在NAS上建立自己的网络书架。 
+
+
+- **统计软件推荐**
+ 
+	- **SPSS**: [https://www.ibm.com/analytics/spss-statistics-software](https://www.ibm.com/analytics/spss-statistics-software). 最初软件全称为“社会科学统计软件包”（Solutions Statistical Package for the Social Sciences），但是随着SPSS产品服务领域的扩大和服务深度的增加，SPSS公司已于2000年正式将英文全称更改为“统计产品与服务解决方案”，有Windows和Mac OS X等版本。**不太适合大量重复统计计算工作，可以用做验证一些自己编程计算的结果。**
+	- **STATA**: [https://www.stata.com/](https://www.stata.com/). Stata 是一套提供其使用者数据分析、数据管理以及绘制专业图表的完整及整合性统计软件。它提供许许多多功能，包含线性混合模型、均衡重复反复及多项式普罗比模式。用Stata绘制的统计图形相当精美。新版本的STATA采用最具亲和力的窗口接口，使用者自行建立程序时，软件能提供具有直接命令式的语法。Stata提供完整的使用手册，包含统计样本建立、解释、模型与语法、文献等超过一万余页的出版品。**不太适合大量重复统计计算工作，可以用做验证一些自己编程计算的结果。**
+   
