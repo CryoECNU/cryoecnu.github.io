@@ -32,6 +32,7 @@ The Diurnal Temperature Range in CMIP6 Models: Climatology, Variability, and Evo
 Sensitivity evaluation of the Kudryavtsev permafrost model.
 **Science of the Total Environment**:137538.
 [DOI:10.1016/j.scitotenv.2020.137538](https://doi.org/10.1016/j.scitotenv.2020.137538)
+[<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2021/02/17/Sensitivity_Ku_model/)
 
 1. **Kang Wang**, Gary D. Clow
 (**2020**),
