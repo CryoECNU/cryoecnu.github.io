@@ -4,7 +4,7 @@ title: Sensitivity evaluation of the Kudryavtsev permafrost model
 date: 2021-02-17
 categories: blog
 description: 
-tags: [Publication, Radiation, Alaska, Evaluation]
+tags: [Publication, Permafrost, Alaska, Evaluation, Kudryavtsev]
 header-img: img/top.png    #这篇文章标题背景图片
 ---
 
