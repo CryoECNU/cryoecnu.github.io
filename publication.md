@@ -53,6 +53,7 @@ Reconstructed global monthly land air temperature dataset (1880–2017).
 Coal-to-gas heating compensation standard and willingness to make clean energy choices in typical rural areas of northern China.
 **Energy Policy**:111698.
 [DOI:10.1016/j.enpol.2020.111698](https://doi.org/10.1016/j.enpol.2020.111698)
+[<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2021/02/17/C2G_Willingness/)
 
 1. Lei Zheng, Chunxia Zhou, **Kang Wang**
 (**2020**),
