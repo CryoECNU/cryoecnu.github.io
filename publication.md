@@ -109,7 +109,7 @@ Continuously Amplified Warming in the Alaskan Arctic: Implications for Estimatin
 **Geophysical Research Letters**:9029-9038.
 [DOI:10.1002/2017gl074232](https://doi.org/10.1002/2017gl074232) [<span style="color:red">**Link!**</span>](https://cryoecnu.github.io/blog/2017/10/30/Continuously_Amplified_Warming_Alaskan_Arctic/)
 
-1. Qingfeng Wang, Huijun Jin, Tingjun Zhang, Bin Cao, Xiaoqing Peng, **Kang Wang**, Xiongxin Xiao, Hong Guo, Cuicui Mu, Lili Li
+1. Qingfeng Wang, Huijun Jin$$^+$$, Tingjun Zhang$$^+$$, Bin Cao, Xiaoqing Peng, **Kang Wang**, Xiongxin Xiao, Hong Guo, Cuicui Mu, Lili Li
 (**2017**),
 Hydro-thermal processes and thermal offsets of peat soils in the active layer in an alpine permafrost region, NE Qinghai-Tibet plateau. 
 **Global and Planetary Change**:1-12.
@@ -121,7 +121,7 @@ Response of seasonal soil freeze depth to climate change across China.
 **The Cryosphere**:1059-1073.
 [DOI:10.5194/tc-11-1059-2017](https://doi.org/10.5194/tc-11-1059-2017)
 
-1. Bin Cao, Stephan Gruber, Tingjun Zhang, Lili Li, Xiaoqing Peng, **Kang Wang**, Lei Zheng, Wanwan Shao, Hong Guo
+1. Bin Cao, Stephan Gruber, Tingjun Zhang$$^+$$, Lili Li, Xiaoqing Peng, **Kang Wang**, Lei Zheng, Wanwan Shao, Hong Guo
 (**2017**),
 Spatial Variability of Active Layer Thickness Detected by Ground-Penetrating Radar in the Qilian Mountains, Western China. 
 **Journal of Geophysical Research: Earth Surface**:574-591.
@@ -133,13 +133,13 @@ Climatology of the Timing and Duration of the Near-Surface Soil Freeze-Thaw Stat
 **Arctic Antarctic and Alpine Research**:723-738.
 [DOI:10.1657/AAAR0016-009](https://doi.org/10.1657/AAAR0016-009)
 
-1. Xiaoqing Peng, Oliver W. Frauenfeld, Bin Cao, **Kang Wang**, Huijuan Wang, Hang Su, Zhe Huang, Dongxia Yue, Tingjun Zhang
+1. Xiaoqing Peng, Oliver W. Frauenfeld, Bin Cao, **Kang Wang**, Huijuan Wang, Hang Su, Zhe Huang, Dongxia Yue, Tingjun Zhang$$^+$$
 (**2016**),
 Response of Changes in Seasonal Soil Freeze/Thaw State to Climate Change from 1950 to 2010 across China: Soil seasonal freeze/thaw state changes. 
 **Journal of Geophysical Research: Earth Surface**:1984-2000.
 [DOI:10.1002/2016JF003876](https://doi.org/10.1002/2016JF003876) 
 
-1. Qingfeng Wang, Tingjun Zhang$$^+$$, Huijun Jin, Bin Cao, Xiaoqing Peng, **Kang Wang**, Lili Li, Hong Guo, Jia Liu, Lin Cao
+1. Qingfeng Wang, Tingjun Zhang$$^+$$, Huijun Jin$$^+$$, Bin Cao, Xiaoqing Peng, **Kang Wang**, Lili Li, Hong Guo, Jia Liu, Lin Cao
 (**2016**),
 Observational study on the active layer freeze–thaw cycle in the upper reaches of the Heihe River of the north-eastern Qinghai-Tibet Plateau. 
 **Quaternary International**:13-22.
