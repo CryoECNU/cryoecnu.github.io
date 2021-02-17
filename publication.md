@@ -7,7 +7,7 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
-1. **Kang Wang**, Tingjun Zhang
+1. **Kang Wang**$$^+$$, Tingjun Zhang
 (**2021**),
 Revisiting climatic features in the Alaskan Arctic using newly collected data.
 **Theoretical and Applied Climatology**:1-9.
