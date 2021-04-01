@@ -7,10 +7,15 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
+1. **Kang Wang**, Tingjun Zhang$$^+$$, Daqing Yang
+(**2021**),
+Permafrost Dynamics and their Hydrologic Impacts over the Russian Arctic Drainage Basin.
+**Advances in Climate Change Research**: in press.
+
 1. **Kang Wang**, Tingjun Zhang$$^+$$
 (**2021**),
 Revisiting climatic features in the Alaskan Arctic using newly collected data.
-**Theoretical and Applied Climatology**:1-9.
+**Theoretical and Applied Climatology**:1251-1259.
 [DOI:10.1007/s00704-020-03495-8](https://doi.org/10.1007/s00704-020-03495-8)
 
 1. **Kang Wang$$^+$$**, Gary D. Clow
