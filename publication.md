@@ -10,7 +10,7 @@ header-img: "img/top.png"
 1. **Kang Wang**, Tingjun Zhang$$^+$$, Daqing Yang
 (**2021**),
 Permafrost Dynamics and their Hydrologic Impacts over the Russian Arctic Drainage Basin.
-**Advances in Climate Change Research**: in press.
+**Advances in Climate Change Research**: [DOI:10.1016/j.accre.2021.03.014](https://www.sciencedirect.com/science/article/pii/S1674927821000538).
 
 1. **Kang Wang**, Tingjun Zhang$$^+$$
 (**2021**),
