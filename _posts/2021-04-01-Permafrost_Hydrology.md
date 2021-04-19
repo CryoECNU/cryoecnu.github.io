@@ -11,7 +11,7 @@ header-img: img/top.png    #这篇文章标题背景图片
 **Kang Wang**, Tingjun Zhang$$^+$$, Daqing Yang
 (**2021**),
 Permafrost Dynamics and their Hydrologic Impacts over the Russian Arctic Drainage Basin.
-**Advances in Climate Change Research**: in press.
+**Advances in Climate Change Research**: [DOI:10.1016/j.accre.2021.03.014](https://www.sciencedirect.com/science/article/pii/S1674927821000538).
 
 在过去的几十年中，北极和亚北极地区已经发生了显著快速的气候变化，这正在改变着北极的水文循环。已有观测显示，在过去的几十年中，北极主要河流的年径流量显着增加。陆地输入的淡水对北冰洋乃至全球海洋系统都很重要。淡水通量的变化也可将大量的陆地汞、氮和碳等带入北冰洋，并对海洋生态产生重要影响。对于北极河流径流变化的原因有着不同的观点。
 
