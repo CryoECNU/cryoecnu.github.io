@@ -28,13 +28,9 @@ export CC=gcc-9
 export CXX=g++-9
 
 echo 'FC  = gfortran-9'
-
 echo 'F90 = gfortran-9'
-
 echo 'F77 = gfortran-9'
-
 echo 'CC  = gcc-9'
-
 echo 'CXX = g++-9'
 
 export install_path=[/path/to/gcc_libs] # set to yours
