@@ -52,11 +52,8 @@ export compile_netcdf4=false
 export compile_mpich=true
 
 export zlib_label=zlib-1.2.7
-
 export hdf5_label=hdf5-1.8.19
-
 export netcdf4_label=netcdf-4.1.3
-
 export mpich_label=mpich-3.3
 
 #====================MAY NOT BE CHANGED==============
