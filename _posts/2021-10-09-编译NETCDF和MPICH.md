@@ -64,7 +64,7 @@ fi
 
 cd ${zlib_label}
 
-echo "enter zlib-1.2.7 ..."
+echo "enter ${zlib_label} ..."
 
 ./configure --prefix=${install_path}
 
