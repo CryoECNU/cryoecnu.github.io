@@ -12,22 +12,22 @@ header-img: img/top.png    #这篇文章标题背景图片
 
 为了图个方便，使用NETCDF-4.1.3，因为再往后的版本就是C和FORTRAN版本分开了，麻烦些。
 
-另外，经过各种尝试，gcc10以上的编译NETCDF4.1.3会报错。所以建议VIC都用GCC9 ～ GCC6版本。这里以homebrew安装的GCC9为例，写了一个bash脚本来简化安装。有时间再试试看windows下面如何编译VIC模型。
+另外，经过各种尝试，gcc10以上的编译NETCDF4.1.3会报错。所以建议VIC都用GCC9 ～ GCC6版本。这里以homebrew安装的GCC6为例，写了一个bash脚本来简化安装。有时间再试试看windows下面如何编译VIC模型。
 
 
 ```
 
-export FC=gfortran-9
-export F90=gfortran-9
-export F77=gfortran-9
-export CC=gcc-9
-export CXX=g++-9
+export FC=gfortran-6
+export F90=gfortran-6
+export F77=gfortran-6
+export CC=gcc-6
+export CXX=g++-6
 
-echo 'FC  = gfortran-9'
-echo 'F90 = gfortran-9'
-echo 'F77 = gfortran-9'
-echo 'CC  = gcc-9'
-echo 'CXX = g++-9'
+echo "FC  = ${FC}"
+echo "F90 = ${F90}"
+echo "F77 = ${F77}"
+echo "CC  = ${CC}"
+echo "CXX = ${CXX}"
 
 export install_path=[/path/to/gcc_libs] # set to yours
 
