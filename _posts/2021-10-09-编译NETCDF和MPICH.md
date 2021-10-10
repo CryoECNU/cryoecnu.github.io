@@ -44,11 +44,8 @@ echo "All libs will installed into ${install_path}"
 export make_check=false #true or false
 
 export compile_zlib=false
-
 export compile_hdf5=false
-
 export compile_netcdf4=false
-
 export compile_mpich=true
 
 export zlib_label=zlib-1.2.7
