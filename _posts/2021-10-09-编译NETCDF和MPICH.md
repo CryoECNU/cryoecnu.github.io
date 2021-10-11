@@ -17,7 +17,6 @@ header-img: img/top.png    #这篇文章标题背景图片
 
 ```
 
-
 export FC=gfortran-7
 export F90=gfortran-7
 export F77=gfortran-7
@@ -32,23 +31,28 @@ echo "CXX = ${CXX}"
 
 export install_path=/Users/kangwang/Documents/compile_LIBS/gcc_libs
 export LD_LIBRARY_PATH=${install_path}/lib:${LD_LIBRARY_PATH}
+export PATH="/usr/local/opt/make/libexec/gnubin:$PATH"
 
 echo "All libs will installed into ${install_path}"
 
 export make_check=false #true or false
 
 export compile_zlib=true
+export compile_szip=true
+export compile_curl=false
+export compile_libpng=false
 export compile_hdf5=true
 export compile_netcdf4c=true
 export compile_netcdf4f=true
 export compile_mpich=true
-export compile_libpng=true
 
 export zlib_label=zlib-1.2.11
+export szip_label=szip-2.1.1
+export curl_label=curl-7.79.1
 export hdf5_label=hdf5-1.8.22
 export netcdf4c_label=netcdf-c-4.8.1
 export netcdf4f_label=netcdf-fortran-4.5.2
-export mpich_label=mpich-3.3
+export mpich_label=mpich-3.4.2
 export libpng_label=libpng-1.2.50
 
 #==========================STOP======================
@@ -88,6 +92,68 @@ fi
 
 #----------------------------------------------------
 
+if [[ $compile_szip = true ]]
+
+then
+
+echo 'Compile szip ...'
+
+if [[ ! -d ${szip_label} ]]
+then
+    echo "${szip_label} does not exist on your filesystem."
+    tar -zxvf ${szip_label}.tar.gz
+    echo "unzip ${szip_label}.tar.gz ..."
+fi
+
+cd ${szip_label}
+
+echo "enter ${szip_label} ..."
+
+./configure -q --prefix=${install_path}
+
+make
+test "$make_check" = true && make check
+make install
+
+echo 'szip compiled  ...'
+
+cd ..
+
+fi
+
+#----------------------------------------------------
+
+if [[ $compile_curl = true ]]
+
+then
+
+echo 'Compile curl ...'
+
+if [[ ! -d ${curl_label} ]]
+then
+    echo "${curl_label} does not exist on your filesystem."
+    tar -zxvf ${curl_label}.tar.gz
+    echo "unzip ${curl_label}.tar.gz ..."
+fi
+
+cd ${curl_label}
+
+echo "enter ${curl_label} ..."
+
+./configure -q --prefix=${install_path} --without-ssl
+
+make
+test "$make_check" = true && make test
+make install
+
+echo 'curl compiled  ...'
+
+cd ..
+
+fi
+
+#----------------------------------------------------
+
 if [[ $compile_hdf5 = true ]]
 
 then
@@ -105,7 +171,7 @@ cd ${hdf5_label}
 
 echo "enter ${hdf5_label} ..."
 
-./configure --prefix=${install_path} --with-zlib=${install_path} --enable-hl
+./configure -q --prefix=${install_path} --with-zlib=${install_path} --with-szlib=${install_path} --enable-hl --enable-shared --enable-production --with-pthread --with-pic
 
 make
 test "$make_check" = true && make check
@@ -136,7 +202,7 @@ cd ${netcdf4c_label}
 
 echo "enter ${netcdf4c_label} ..."
 
-./configure -q --prefix=${install_path} CPPFLAGS="-I${install_path}/include" LDFLAGS="-L${install_path}/lib" --enable-netcdf4 --enable-large-file-tests --disable-dap
+./configure -q --prefix=${install_path} CPPFLAGS="-I${install_path}/include" LDFLAGS="-L${install_path}/lib" --enable-netcdf4 --enable-shared --disable-dap
 
 make
 test "$make_check" = true && make check
@@ -167,7 +233,7 @@ cd ${netcdf4f_label}
 
 echo "enter ${netcdf4f_label} ..."
 
-./configure -q --prefix=${install_path} CPPFLAGS="-I${install_path}/include" LDFLAGS="-L${install_path}/lib" --enable-large-file-tests
+./configure -q --prefix=${install_path} CPPFLAGS="-I${install_path}/include" LDFLAGS="-L${install_path}/lib"
 
 make
 test "$make_check" = true && make check
@@ -201,7 +267,7 @@ echo "enter ${mpich_label} ..."
 unset F90
 unset F90FLAGS
 
-./configure --prefix=${install_path}
+./configure -q --prefix=${install_path}
 
 make
 make install
