@@ -29,7 +29,7 @@ echo "F77 = ${F77}"
 echo "CC  = ${CC}"
 echo "CXX = ${CXX}"
 
-export install_path=/Users/kangwang/Documents/compile_LIBS/gcc_libs
+export install_path=/path/to/gcc_libs # [<span style="color:red">**DEFINE WHERE YOU WANT TO INSTLL**</span>] #
 export LD_LIBRARY_PATH=${install_path}/lib:${LD_LIBRARY_PATH}
 export PATH="/usr/local/opt/make/libexec/gnubin:$PATH"
 
