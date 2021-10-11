@@ -12,7 +12,7 @@ header-img: img/top.png    #这篇文章标题背景图片
 
 当然，如果为图方便，可以使用NETCDF-4.1.3，因为再往后的版本就是C和FORTRAN版本分开了，麻烦些。另外，要注意，gcc新版本编译NETCDF4.1.3会报错。所以建议VIC都用GCC6或者7。
 
-这里以homebrew安装的GCC7为例，写了一个bash脚本来简化安装一些常用的库：NETCDF-C、NETCDF-Fortran、MPICH等。
+这里以homebrew安装的GCC7为例，写了一个bash脚本来简化安装一些常用的库：NETCDF-C、NETCDF-Fortran、MPICH等，为了让NETCDF支持NC4，还需要先编译zlib、szip和hdf5。
 
 
 ```
