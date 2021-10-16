@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 编译netcdf和mpich
+title: 编译netcdf、mpich和Jasper库
 date: 2021-10-09
 categories: blog
 description: 
-tags: [Software, netcdf, mpich, compile]
+tags: [Software, netcdf, mpich, jasper, compile]
 header-img: img/top.png    #这篇文章标题背景图片
 ---
 
-在MAC OS下面，不管是MACPORTS还是HOMEBREW安装的gcc、netcdf、mpich包，安装的时候都没问题，但是用来编译其他程序（比如编译VIC模型）的时候总报莫名其妙的错误。没办法，只好自己编译NETCDF和MPICH库了。优点是可以确保编译所有库都用的相同编译器，缺点是麻烦且又些耗时间。需要注意的是NETCDF库，要是图方便其实也可以使用NETCDF-4.1.3，因为再往后的版本就是C和FORTRAN版本分开了，要编译两个，会麻烦些。另外，要注意，gcc新版本编译NETCDF4.1.3会报错。所以建议都用<span style="color:red">**GCC7**</span>。
+在MAC OS下面，不管是MACPORTS还是HOMEBREW安装的gcc、netcdf、mpich包，安装的时候都没问题，但是用来编译其他程序（比如编译VIC模型）的时候总报莫名其妙的错误。没办法，只好自己编译NETCDF、MPICH等库。优点是可以确保编译所有库都用的相同编译器，缺点是麻烦且又些耗时间。需要注意的是NETCDF库，要是图方便其实也可以使用NETCDF-4.1.3，因为再往后的版本就是C和FORTRAN版本分开了，要编译两个，会麻烦些。另外，要注意，gcc新版本编译NETCDF4.1.3会报错。所以建议都用<span style="color:red">**GCC7**</span>。
 
-这里以homebrew安装的GCC7为例，写了一个bash脚本来简化安装一些常用的库：NETCDF-C、NETCDF-Fortran、MPICH等，为了让NETCDF支持NC4，还需要先编译zlib、szip和hdf5。
+这里以homebrew安装的GCC7为例，写了一个bash脚本来简化安装一些常用的库：NETCDF、MPICH等。为了让NETCDF支持NC4，还需要先编译zlib、szip和hdf5。
 
 NETCDF的编译顺序：
 
@@ -196,6 +196,135 @@ test "$make_check" = true && make -s check
 make -s install
 
 echo 'szip compiled  ...'
+echo "-------------------------------------------------------------------------"
+cd ..
+
+fi
+
+#----------------------------------------------------
+#--------------         BZIP2          --------------
+#----------------------------------------------------
+
+if [[ $compile_bzip2 = true ]]
+
+then
+
+#echo 'Compile bzip2 ...'
+
+if [[ ! -d ${bzip2_label} ]]
+then
+    echo "${bzip2_label} does not exist on your filesystem."
+    tar -zxf ${bzip2_label}.tar.gz
+    echo "unzip ${bzip2_label}.tar.gz ..."
+fi
+
+cd ${bzip2_label}
+
+echo "enter ${bzip2_label}"
+
+make install PREFIX=${install_path} CC=${CC}
+
+echo 'bzip2 compiled  ...'
+echo "-------------------------------------------------------------------------"
+cd ..
+
+fi
+
+#----------------------------------------------------
+#--------------         LIBPNG         --------------
+#----------------------------------------------------
+
+if [[ $compile_libpng = true ]]
+
+then
+
+#echo 'Compile libpng ...'
+
+if [[ ! -d ${libpng_label} ]]
+then
+    echo "${libpng_label} does not exist on your filesystem."
+    tar -zxf ${libpng_label}.tar.gz
+    echo "unzip ${libpng_label}.tar.gz ..."
+fi
+
+cd ${libpng_label}
+
+echo "enter ${libpng_label}"
+
+./configure --prefix=${install_path}
+
+make -s
+test "$make_check" = true && make -s check
+make -s install
+
+echo 'libpng compiled  ...'
+echo "-------------------------------------------------------------------------"
+cd ..
+
+fi
+
+#----------------------------------------------------
+#--------------         LIBJPEG        --------------
+#----------------------------------------------------
+
+if [[ $compile_jpeg = true ]]
+
+then
+
+#echo 'Compile jpeg ...'
+
+if [[ ! -d ${jpeg_label} ]]
+then
+    echo "${jpeg_label} does not exist on your filesystem."
+    tar -zxf ${jpeg_label}.tar.gz
+    echo "unzip ${jpeg_label}.tar.gz ..."
+fi
+
+cd ${jpeg_label}
+
+echo "enter ${jpeg_label}"
+
+./configure --prefix=${install_path}
+
+make -s
+test "$make_check" = true && make -s check
+make -s install
+
+
+echo 'jpeg compiled  ...'
+echo "-------------------------------------------------------------------------"
+cd ..
+
+fi
+
+#----------------------------------------------------
+#--------------         JASPER         --------------
+#----------------------------------------------------
+
+if [[ $compile_jasper = true ]]
+
+then
+
+#echo 'Compile jasper ...'
+
+if [[ ! -d ${jasper_label} ]]
+then
+    echo "${jasper_label} does not exist on your filesystem."
+    tar -zxf ${jasper_label}.tar.gz
+    echo "unzip ${jasper_label}.tar.gz ..."
+fi
+
+cd ${jasper_label}
+
+echo "enter ${jasper_label}"
+
+./configure --prefix=${install_path}
+
+make -s
+test "$make_check" = true && make -s check
+make -s install
+
+echo 'jasper compiled  ...'
 echo "-------------------------------------------------------------------------"
 cd ..
 
