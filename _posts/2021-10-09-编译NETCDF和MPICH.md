@@ -8,9 +8,19 @@ tags: [Software, netcdf, mpich, compile]
 header-img: img/top.png    #这篇文章标题背景图片
 ---
 
-在MAC OS下面，不管是MACPORTS还是HOMEBREW安装的gcc、netcdf、mpich包，安装的时候都没问题，但是用来编译其他程序（比如编译VIC模型）的时候总报莫名其妙的错误。没办法，只好自己编译NETCDF和MPICH库了。当然，如果为图方便，可以使用NETCDF-4.1.3，因为再往后的版本就是C和FORTRAN版本分开了，麻烦些。另外，要注意，gcc新版本编译NETCDF4.1.3会报错。所以建议都用**GCC7**。
+在MAC OS下面，不管是MACPORTS还是HOMEBREW安装的gcc、netcdf、mpich包，安装的时候都没问题，但是用来编译其他程序（比如编译VIC模型）的时候总报莫名其妙的错误。没办法，只好自己编译NETCDF和MPICH库了。优点是可以确保编译所有库都用的相同编译器，缺点是麻烦且又些耗时间。需要注意的是NETCDF库，要是图方便其实也可以使用NETCDF-4.1.3，因为再往后的版本就是C和FORTRAN版本分开了，要编译两个，会麻烦些。另外，要注意，gcc新版本编译NETCDF4.1.3会报错。所以建议都用<span style="color:red">**GCC7**</span>。
 
 这里以homebrew安装的GCC7为例，写了一个bash脚本来简化安装一些常用的库：NETCDF-C、NETCDF-Fortran、MPICH等，为了让NETCDF支持NC4，还需要先编译zlib、szip和hdf5。
+
+NETCDF的编译顺序：
+
+* szip or zlib
+* zlib or szip
+* hdf5
+* netcdf-c
+* netcdf-fortran
+
+MPICH可以在NETCDF之前编译，也可以之后编译。两者是独立的。
 
 
 ```
