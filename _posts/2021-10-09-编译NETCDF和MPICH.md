@@ -60,7 +60,7 @@ export compile_mpich=false
 export compile_zlib=false
 export compile_szip=false
 export compile_curl=false
-export compile_hdf5=false            # Dep: zlib, szip
+export compile_hdf5=false             # Dep: zlib, szip
 export compile_netcdf4c=false         # Dep: hdf5
 export compile_netcdf4f=false         # Dep: netcdf-c
 
