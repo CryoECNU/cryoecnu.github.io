@@ -7,6 +7,11 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
+1. **Kang Wang$$^+$$**, Tingjun Zhang, Gary D. Clow
+(**2023**),
+Permafrost Thermal Responses to Asymmetrical Climate Changes: An Integrated Perspective.
+**Geophysical Research Letters**: [DOI:10.1029/2022GL100327](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100327).
+
 1. **Kang Wang**, Tingjun Zhang$$^+$$, Daqing Yang
 (**2021**),
 Permafrost Dynamics and their Hydrologic Impacts over the Russian Arctic Drainage Basin.
