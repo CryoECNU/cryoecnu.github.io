@@ -7,6 +7,12 @@ header-img: "img/top.png"
 
 **同行评议学术论文**
 
+1. **王康$$^+$$**, 牟翠翠, 彭小清, 郑雷, 曹斌, 贾朗, 何海龙, 朱杨, 王明珠, 许金龙
+(**2023**),
+寒区在变热：暨述张廷军教授四十余载学术之路及贡献.
+**冰川冻土**:45(2):291-305.
+[DOI:10.7522/j.issn.1000-0240.2023.0022](http://www.bcdt.ac.cn/CN/10.7522/j.issn.1000-0240.2023.0022)
+
 1. **Kang Wang$$^+$$**, Tingjun Zhang, Gary D. Clow
 (**2023**),
 Permafrost Thermal Responses to Asymmetrical Climate Changes: An Integrated Perspective.
