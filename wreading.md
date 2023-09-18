@@ -12,7 +12,7 @@ header-img: "img/top.png"
 ** 发展可以看作是扩展人们享有的真实自由的一个过程 **
 
 <center>
-<p><img src="/img/2361695005274_.pic_hd.jpg align="center"></p>
+<p><img src="/img/2361695005274_.pic_hd.jpg" align="center"></p>
 </center>
 
 [辅助阅读](https://www.ecnu.edu.cn/info/1094/64458.htm)
