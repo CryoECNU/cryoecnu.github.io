@@ -11,7 +11,7 @@ header-img: "img/top.png"
 
 2023年9月，新学期开学典礼上，校长致辞也是这个主题。[辅助阅读](https://www.ecnu.edu.cn/info/1094/64458.htm)
 
-** 发展可以看作是扩展人们享有的真实自由的一个过程 **
+**发展可以看作是扩展人们享有的真实自由的一个过程**
 
 <center>
 <p><img src="/img/2361695005274_.pic_hd.jpg" align="center"></p>
