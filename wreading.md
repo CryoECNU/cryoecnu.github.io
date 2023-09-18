@@ -7,7 +7,7 @@ header-img: "img/top.png"
 
 ## 以自由看待发展
 
-2023年寒假时，曾经推荐给学院本科生的书籍.[推荐](https://mp.weixin.qq.com/s/0zTtRDakNXdCHO4_Lsm3Yw)
+2023年寒假时，曾经推荐给学院本科生的书籍.[微信公众号文章](https://mp.weixin.qq.com/s/0zTtRDakNXdCHO4_Lsm3Yw)
 
 ** 发展可以看作是扩展人们享有的真实自由的一个过程 **
 
