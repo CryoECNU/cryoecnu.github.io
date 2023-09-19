@@ -5,6 +5,20 @@ description: "多读书，读好书"
 header-img: "img/top.png" 
 ---
 
+## 以自由看待发展
+
+2023年寒假时，曾经推荐给学院本科生的书籍.[微信公众号文章](https://mp.weixin.qq.com/s/0zTtRDakNXdCHO4_Lsm3Yw)
+
+2023年9月，新学期开学典礼上，校长致辞也是这个主题。[辅助阅读](https://www.ecnu.edu.cn/info/1094/64458.htm)
+
+**发展可以看作是扩展人们享有的真实自由的一个过程**
+
+<center>
+<p><img src="/img/2361695005274_.pic_hd.jpg" align="center"></p>
+</center>
+
+
+
 ## 百年孤独
 
 **如果这一生只读一本书，那一定是《百年孤独》**
